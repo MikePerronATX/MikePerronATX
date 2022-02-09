@@ -1,5 +1,3 @@
-theme: modernist
-
 Hi, my name is Mike Perron. In May 2021, I graduated from Austin Community College with an Associate's Degree in Computer Information Technology specializing in Web Development. The core technologies of my degree are HTML, CSS, JavaScript, Python, Java, C++, SQL, PL/SQL, MySQL, and Oracle Database.
 In January of 2021, I started at Wipro Ltd. and began work as Software QA for Facebook and Instagram. I am currently in the process of upgrading my GitHub account and actively seeking an entry-level position as a Software Developer.
 In my spare time, I play violin in the Cajun band Chansons et Soûlards, take online Udemy courses (currently studying Selenium and Appium), and travel as much as possible with my wife.
