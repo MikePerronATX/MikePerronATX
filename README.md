@@ -9,7 +9,7 @@ Whichever company gives me my first entry-level Software Developer position will
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mikeperronatx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikeperronatx" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-perron-6807791a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikeperronatx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/the wandering cajun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the wandering cajun" height="30" width="40" /></a>
 </p>
 
