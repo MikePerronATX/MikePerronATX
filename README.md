@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Mike Perron.</h1>
+<h1 align="center" style="color:blue">Hi 👋, my name is Mike Perron.</h1>
 <h3 align="center">
 In May 2021, I graduated from Austin Community College with an Associate's Degree in Computer Information Technology specializing in Web Development. The core technologies of my degree are HTML, CSS, JavaScript, Python, Java, C++, SQL, PL/SQL, MySQL, and Oracle Database.
 <br/>
