@@ -1,4 +1,4 @@
-<h1 style="color:red;">Hi 👋, my name is Mike Perron.</h1>
+<h1 align="center">Hi 👋, my name is Mike Perron.</h1>
 <h3 align="center">
 In May 2021, I graduated from Austin Community College with an Associate's Degree in Computer Information Technology specializing in Web Development. The core technologies of my degree are HTML, CSS, JavaScript, Python, Java, C++, SQL, PL/SQL, MySQL, and Oracle Database.
 In January of 2021 (4-months before graduation), I started at Wipro Ltd. and began work as a Software QA for Facebook and Instagram. I am currently in the process of upgrading my GitHub account and actively seeking an entry-level position as a Software Developer.
