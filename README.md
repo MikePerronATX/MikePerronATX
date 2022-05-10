@@ -7,7 +7,7 @@ In January of 2021 (4-months before graduation), I started at Wipro Ltd. and beg
 On March 14, 2022, I began an Internship at Emerson Automation Solutions in Round Rock, Texas (10-minutes north of Austin, Texas). I am currently in the process of upgrading my GitHub account and actively seeking an entry-level position as a Software Developer.
 <br/>
 <br/>
-In my spare time, I play violin in the Cajun band Chansons et Soûlards, take online Udemy courses (React and Golang), and travel as much as possible with my wife.
+In my spare time, I play violin in the Cajun band Chansons et Soûlards, take online Udemy courses (currently, I am studying React and Golang), and travel as much as possible with my wife.
 <br/>
 <br/>
 My key strengths are that I stay focused until the job is complete, and that I love researching what I do not understand; what I lack in experience, I make up for in drive. While earning my degree, I worked as the evening manager at a Cafe on the University of Texas in Austin, and never missed a day of class. I earned straight A's in all of my classes except Java I (earned an 89.4 B), but earned the highest A in my Java II class.
