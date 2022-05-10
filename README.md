@@ -3,7 +3,7 @@
 In May 2021, I graduated from Austin Community College with an Associate's Degree in Computer Information Technology specializing in Web Development. The core technologies of my degree are HTML, CSS, JavaScript, Python, Java, C++, SQL, PL/SQL, MySQL, and Oracle Database.
 <br/>
 <br/>
-In January of 2021 (4-months before graduation), I started at Wipro Ltd. and began work as a Software QA for Facebook and Instagram. I am currently in the process of upgrading my GitHub account and actively seeking an entry-level position as a Software Developer.
+In January of 2021 (4-months before graduation), I started at Wipro Ltd. and began work as a Software QA for Facebook and Instagram. For 5-months, I triaged and reproduced bugs reported during development of an Artificial Intelligence assistant (“Hey Facebook”) on the Oculus team, and then for 9-months, I triaged and reproduced bugs reported prior to each build release on the Instagram team. On March 14, 2022, I began an Internship at Emerson Automation Solutions in Round Rock, Texas (10-minutes north of Austin, Texas). I am currently in the process of upgrading my GitHub account and actively seeking an entry-level position as a Software Developer.
 <br/>
 <br/>
 In my spare time, I play violin in the Cajun band Chansons et Soûlards, take online Udemy courses (React and Golang), and travel as much as possible with my wife.
