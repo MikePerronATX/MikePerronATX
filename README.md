@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Mike Perron. </h1>
 <h3 align="center">
-In May 2021, I graduated from Austin Community College with an Associate's Degree in Computer Information Technology specializing in Web Development. The core technologies of my degree are HTML, CSS, JavaScript, Python, Java, C++, SQL, PL/SQL, MySQL, and Oracle Database.
+In May 2021, I graduated from Austin Community College with an Associate's Degree in Web Development. The core technologies of my degree are HTML, CSS, JavaScript, Python, Java, C++, SQL, PL/SQL, MySQL, and Oracle Database.
 <br/>
 <br/>
 In January of 2021 (4-months before graduation), I started at Wipro Ltd. and began work as a Software QA for Facebook and Instagram. For 5-months, I triaged and reproduced bugs reported during development of an Artificial Intelligence assistant (“Hey Facebook”) on the Oculus team, and then for 9-months, I triaged and reproduced bugs reported prior to each build release on the Instagram team.
