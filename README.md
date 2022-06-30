@@ -4,13 +4,13 @@ In May 2021, I graduated from Austin Community College with an Associate's Degre
 <br/>
 <br/>
 In January of 2021 (4-months before graduation), I started at Wipro Ltd. and began work as a Software QA for Facebook and Instagram. For 5-months, I triaged and reproduced bugs reported during development of an Artificial Intelligence assistant (“Hey Facebook”) on the Oculus team, and then for 9-months, I triaged and reproduced bugs reported prior to each build release on the Instagram team.
-On March 14, 2022, I began an Internship at Emerson Automation Solutions in Round Rock, Texas (10-minutes north of Austin, Texas). I am currently in the process of upgrading my GitHub account and actively seeking an entry-level position as a Software Developer.
+On March 14, 2022, I began an Internship at Emerson Automation Solutions in Round Rock, Texas (10-minutes north of Austin, Texas). I am currently in the process of upgrading my GitHub account and actively seeking a position as a Web Developer.
 <br/>
 <br/>
-In my spare time, I play violin in the Cajun band Chansons et Soûlards, take online Udemy courses (currently, I am studying React and Golang), and travel as much as possible with my wife.
+In my spare time, I play violin in the Cajun band Chansons et Soûlards, take online Udemy courses (currently, I am studying Machine learning), and travel as much as possible with my wife.
 <br/>
 <br/>
-My key strengths are that I stay focused until the job is complete, and that I love researching what I do not understand; what I lack in experience, I make up for in drive. While earning my degree, I worked as the evening manager at a Cafe on the University of Texas in Austin, and never missed a day of class. I earned straight A's in all of my classes except Java I (earned an 89.4 B), but earned the highest A in my Java II class.
+My key strengths are that I stay focused until the job is complete, and that I love researching/learning what I do not understand. While earning my degree, I worked as the evening manager at a Cafe on the University of Texas in Austin, and never missed a day of work or class. I earned straight A's in all of my classes except Java I (earned an 89.4 B), but earned the highest A in my Java II class.
 Whichever company gives me my first entry-level Software Developer position will not be disappointed.</h3>
 
 <h3 align="left">Connect with me:</h3>
