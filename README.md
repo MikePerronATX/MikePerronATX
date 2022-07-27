@@ -4,7 +4,7 @@ In May 2021, I graduated from Austin Community College with an Associate's Degre
 <br/>
 <br/>
 In January of 2021 (4-months before graduation), I started at Wipro Ltd. and began work as a Software QA for Facebook and Instagram. For 5-months, I triaged and reproduced bugs reported during development of an Artificial Intelligence assistant (“Hey Facebook”) on the Oculus team, and then for 9-months, I triaged and reproduced bugs reported prior to each build release on the Instagram team.
-On March 14, 2022, I began an Internship at Emerson Automation Solutions in Round Rock, Texas (10-minutes north of Austin, Texas). I am currently in the process of upgrading my GitHub account and actively seeking a position as a Web Developer.
+On March 14, 2022, I began an Internship at Emerson Automation Solutions in Round Rock, Texas (10-minutes north of Austin, Texas). I am currently in the process of upgrading my GitHub account and actively seeking a position as a Software Developer.
 <br/>
 <br/>
 In my spare time, I play violin in the Cajun band Chansons et Soûlards, take online Udemy courses (currently, I am studying Machine learning), and travel as much as possible with my wife.
